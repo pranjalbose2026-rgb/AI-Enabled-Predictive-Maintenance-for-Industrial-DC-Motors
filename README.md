@@ -1,0 +1,2 @@
+# AI-Enabled-Predictive-Maintenance-for-Industrial-DC-Motors
+To develop an autonomous monitoring system capable of predicting mechanical and thermal failures in real-time. By deploying a Random Forest Classifier directly onto an ESP32 microcontroller, the system transitions from traditional reactive maintenance to proactive failure prevention, significantly reducing potential downtime and hardware damage.
